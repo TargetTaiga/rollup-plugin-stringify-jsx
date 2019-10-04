@@ -2,7 +2,7 @@
 [Stringify-jsx](https://github.com/TargetTaiga/stringify-jsx) plugin for rollup.
 
 ##Quick start
-```
+```js
 import stringifyJsx from 'rollup-plugin-stringify-jsx';
 
 export default {

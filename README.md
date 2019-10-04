@@ -1,2 +1,21 @@
 # rollup-plugin-stringify-jsx
-stringify-jsx plugin for rollup
+[Stringify-jsx](https://github.com/TargetTaiga/stringify-jsx) plugin for rollup.
+
+##Quick start
+```
+import stringifyJsx from 'rollup-plugin-stringify-jsx';
+
+export default {
+    input: ['src/index.js'],
+    output: {
+        file: 'build/index.js'
+    },
+    plugins: [
+        stringifyJsx(),
+    ]
+};
+```
+
+##TODO
+- [ ] Source maps
+- [ ] Tests

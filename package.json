@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-stringify-jsx",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "stringify-jsx plugin for rollup",
   "main": "dist/stringify-jsx.js",
   "module": "dist/stringify-jsx.es6.js",

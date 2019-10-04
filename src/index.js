@@ -1,6 +1,6 @@
 import stringify from "stringify-jsx";
 
-export function stringifyJsx() {
+export default function stringifyJsx() {
     return {
         name: 'stringify-jsx',
         transform(code, id) {

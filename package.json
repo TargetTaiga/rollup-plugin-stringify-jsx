@@ -1,0 +1,30 @@
+{
+  "name": "rollup-plugin-stringify-jsx",
+  "version": "1.0.0",
+  "description": "stringify-jsx plugin for rollup",
+  "main": "dist/stringify-jsx.js",
+  "module": "dist/stringify-jsx.es6.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TargetTaiga/rollup-plugin-stringify-jsx.git"
+  },
+  "author": {
+    "name": "targettaiga",
+    "email": "targettaiga@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TargetTaiga/rollup-plugin-stringify-jsx/issues"
+  },
+  "homepage": "https://github.com/TargetTaiga/rollup-plugin-stringify-jsx#readme",
+  "dependencies": {
+    "stringify-jsx": "^1.1.1"
+  },
+  "devDependencies": {
+    "rollup": "^1.23.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  }
+}

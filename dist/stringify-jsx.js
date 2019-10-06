@@ -1,3 +1,5 @@
+'use strict';
+
 const stringify = require('stringify-jsx');
 
 module.exports = function stringifyJsx(customOptions) {

@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../index.js"],"sourcesContent":["export class MyComponent {\n    render() {\n        return <div>Hello World!</div>\n    }\n}"],"names":["MyComponent","render"],"mappings":"AAAO,MAAMA,WAAN,CAAkB;EACrBC,MAAM,GAAG;;;;;;;;"}

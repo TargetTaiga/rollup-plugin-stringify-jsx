@@ -3,7 +3,7 @@
 
 ## Quick start
 ```
-npm i --save-dev rollup-plugin-stringify-jsx'
+npm i --save-dev rollup-plugin-stringify-jsx
 ```
 ```js
 import stringifyJsx from 'rollup-plugin-stringify-jsx';

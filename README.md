@@ -14,7 +14,7 @@ export default {
         file: 'build/index.js'
     },
     plugins: [
-        stringifyJsx(),
+        stringifyJsx( /* stringify-jsx options */ ),
     ]
 };
 ```

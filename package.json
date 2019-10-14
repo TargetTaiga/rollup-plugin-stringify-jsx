@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-stringify-jsx",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "stringify-jsx plugin for rollup",
   "main": "dist/stringify-jsx.js",
   "module": "dist/stringify-jsx.es6.js",
@@ -31,5 +31,15 @@
   "devDependencies": {
     "rollup": "^1.23.0",
     "rollup-plugin-node-resolve": "^5.2.0"
-  }
+  },
+  "keywords": [
+    "jsx",
+    "templates",
+    "html",
+    "react",
+    "mustache",
+    "stringify-jsx",
+    "jsx-adaptation",
+    "rollup"
+  ]
 }

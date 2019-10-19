@@ -18,3 +18,5 @@ export default {
     ]
 };
 ```
+
+Explore [example project](https://github.com/TargetTaiga/lit-project-template) for more information.

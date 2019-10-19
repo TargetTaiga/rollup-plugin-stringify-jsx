@@ -1,9 +1,8 @@
 {
   "name": "rollup-plugin-stringify-jsx",
-  "version": "3.2.1",
+  "version": "4.0.0",
   "description": "stringify-jsx plugin for rollup",
   "main": "dist/stringify-jsx.js",
-  "module": "dist/stringify-jsx.es6.js",
   "scripts": {
     "build": "rollup -c"
   },
@@ -22,15 +21,10 @@
   },
   "homepage": "https://github.com/TargetTaiga/rollup-plugin-stringify-jsx#readme",
   "dependencies": {
-    "@babel/generator": "^7.6.2",
-    "@babel/parser": "^7.6.2",
-    "@babel/traverse": "^7.6.2",
-    "@babel/types": "^7.6.1",
-    "stringify-jsx": "^3.2.0"
+    "stringify-jsx": "^4.0.0"
   },
   "devDependencies": {
-    "rollup": "^1.23.0",
-    "rollup-plugin-node-resolve": "^5.2.0"
+    "rollup": "^1.23.0"
   },
   "keywords": [
     "jsx",
